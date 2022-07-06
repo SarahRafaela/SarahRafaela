@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/SarahRafaela/SarahRafaela/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/SarahRafaela/SarahRafaela/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 Profile Readme Generator
