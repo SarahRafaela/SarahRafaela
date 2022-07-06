@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sarah Rafaela and I'm a Software Engineer, from Brazil</h2>
+<h2 align="right">Hi 👋! My name is Sarah Rafaela and I'm a Software Engineer, from Brazil</h2>
 
 ###
 
@@ -41,7 +41,6 @@
 
 <br clear="both">
 
-<img href="https://github.com/SarahRafaela/SarahRafaela/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/SarahRafaela/SarahRafaela/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-Profile Readme Generator
